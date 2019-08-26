@@ -11,5 +11,10 @@ First, let us begin the analytical model to get at this sensitivity simply from 
 Consider a glacier as an infinitely wide slab of ice on a bed with a constant slope and balance gradient.
 
 The net specific balance at any elevation on the glacier is then given by:
+<a href="https://www.codecogs.com/eqnedit.php?latex=ax^{2}&space;&plus;&space;by^{2}&space;&plus;&space;c&space;=&space;0" target="_blank"><img src="https://latex.codecogs.com/gif.latex?ax^{2}&space;&plus;&space;by^{2}&space;&plus;&space;c&space;=&space;0" title="ax^{2} + by^{2} + c = 0" /></a>
+Here Zs is the surface elevation and ELA is the equilirium line altitude. The glacier is sloping the x-direction, therefore, the surface elevation can also be written as:
+<a href="https://www.codecogs.com/eqnedit.php?latex=ax^{2}&space;&plus;&space;by^{2}&space;&plus;&space;c&space;=&space;0" target="_blank"><img src="https://latex.codecogs.com/gif.latex?ax^{2}&space;&plus;&space;by^{2}&space;&plus;&space;c&space;=&space;0" title="ax^{2} + by^{2} + c = 0" /></a>
+s is the slope and Z0 is the elevation at the headwall of the glacier (where x =0). The 1st equation can be written as:
+<a href="https://www.codecogs.com/eqnedit.php?latex=ax^{2}&space;&plus;&space;by^{2}&space;&plus;&space;c&space;=&space;0" target="_blank"><img src="https://latex.codecogs.com/gif.latex?ax^{2}&space;&plus;&space;by^{2}&space;&plus;&space;c&space;=&space;0" title="ax^{2} + by^{2} + c = 0" /></a>
 
-
+![image](https://github.com/egalistmir/TPGM/blob/master/test/test0826.png)
