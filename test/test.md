@@ -20,3 +20,11 @@ s is the slope and Z0 is the elevation at the headwall of the glacier (where x =
 
 
 ![image](https://github.com/egalistmir/TPGM/blob/master/test/test0826.png)
+
+
+While quite a bit of insight can be got into the sensitivity of glaciers to the climate change from analytical models, to include more complicated (realistic) geometry, ice rheology and glaciers out of equilibrium, a numerical model is still in need, because of the numerical iteration among flow speed, ice flux and ice thickness.
+
+How do numerical models work? We still need a fundamental "governing" equation.
+
+In this case, we want to solve for the change in ice thickness per time. This is related to the cie flux and surface balance rate by continuity:
+
